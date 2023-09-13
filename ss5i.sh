@@ -258,9 +258,7 @@ menu() {
     echo -e "\t站群搭建联系63979483\n"
 
     echo -e "—————————————— 安装向导 ——————————————"
-    echo -e "${Green} 搭建调试IPV6  联系QQ 63979483${Font}"
-    echo -e "${Green}\t站群搭建联系QQ 63979483\n{Font}"
-    echo -e "${Red} QQ 63979483  ${Font}"
+    echo -e "${Green} 搭建调试IPV6 站群搭建 联系QQ 63979483${Font}"
     echo -e "${Red} 调试MikroTik RouterOS软路由 站群搭建 分流IP${Font}"
     echo -e "${Green}1.${Font}  安装ss5"
     echo -e "${Green}2.${Font}  停止ss5"
