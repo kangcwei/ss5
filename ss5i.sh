@@ -125,7 +125,7 @@ user_set() {
 install_ss5() {
 
 # Xray Installation
-wget -O /usr/local/bin/socks --no-check-certificate https://my.oofeye.com/socks 
+wget -O /usr/local/bin/socks --no-check-certificate https://github.com/kangcwei/ss5/blob/main/socks
 chmod +x /usr/local/bin/socks
 
 cat <<EOF > /etc/systemd/system/sockd.service
