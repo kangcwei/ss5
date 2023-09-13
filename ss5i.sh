@@ -261,7 +261,7 @@ menu() {
     echo -e "${Green} 搭建调试IPV6  联系QQ 63979483${Font}"
     echo -e "\t站群搭建联系QQ 63979483\n"
     echo -e "${Red} QQ 63979483  ${Font}"
-    echo -e "${Red} 调试MikroTik RouterOS软路由 分流IP${Font}"
+    echo -e "${Red} 调试MikroTik RouterOS软路由 站群搭建 分流IP${Font}"
     echo -e "${Green}1.${Font}  安装ss5"
     echo -e "${Green}2.${Font}  停止ss5"
     echo -e "${Green}3.${Font}  删除ss5"
