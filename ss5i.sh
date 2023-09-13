@@ -200,6 +200,7 @@ systemctl start sockd.service
 
 connect() {
 	IP=$(curl -4  http://ip.sb)
+ 	echo "协议：Socks5"
 	echo "IP: $IP"
 	echo "端口：$port"
 	echo "账户：$user"
